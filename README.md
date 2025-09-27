@@ -1,5 +1,9 @@
 # 💬 FastAPI Chat + MongoDB + WebSocket
+<<<<<<< HEAD
 
+=======
+Trabalho avaliativo2 para P1 de banco de dados não relacional, criando um chat em tempo real com FastAPI.
+>>>>>>> 9eae65b6c3b70465fc97c7ec77022679ec47cce1
 Chat em tempo real usando **FastAPI**, **WebSockets** e **MongoDB Atlas**.
 Permite múltiplos usuários se conectarem em salas diferentes e envia mensagens instantaneamente.
 
@@ -108,4 +112,8 @@ README.md
 * **WebSockets** – Comunicação bidirecional em tempo real
 * **HTML / CSS** – Interface do chat
 
+<<<<<<< HEAD
 ---
+=======
+---
+>>>>>>> 9eae65b6c3b70465fc97c7ec77022679ec47cce1
