@@ -1,15 +1,6 @@
-<<<<<<< HEAD
 fastapi>=0.115
 uvicorn[standard]>=0.30
 motor>=3.4
 python-dotenv>=1.0
 pymongo>=4.10
 pydantic>=2.10
-=======
-fastapi>=0.115
-uvicorn[standard]>=0.30
-motor>=3.4
-python-dotenv>=1.0
-pymongo>=4.10
-pydantic>=2.10
->>>>>>> 9eae65b6c3b70465fc97c7ec77022679ec47cce1
